@@ -1,0 +1,27 @@
+#Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+#Environment variables
+.env
+.env.*
+
+#Keep examples and templates files
+!.env.example
+
+#Vs Code
+.vscode/
+
+#Operating System Files
+.DS_Store
+Thmbns.db
+
+#Node / React Native
+node_modules/
+.expo/
+
+#Build
+dist/
+build/
